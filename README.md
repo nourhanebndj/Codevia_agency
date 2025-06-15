@@ -14,7 +14,6 @@ Codevia is a modern and fully responsive landing page for a software development
 - 📍 Embedded Google Map
 - 📱 WhatsApp click-to-chat button
 - 🎠 Testimonials carousel with Swiper.js
-- 📄 Separate static pages: FAQ and Policy
 - 🔒 Responsive design for mobile, tablet, and desktop
 
 ## 📦 Tech Stack
