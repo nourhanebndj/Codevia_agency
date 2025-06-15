@@ -15,16 +15,6 @@ Codevia is a modern and fully responsive landing page for a software development
 - 📄 Separate static pages: FAQ and Policy
 - 🔒 Responsive design for mobile, tablet, and desktop
 
-## 📁 Project Structure
-
-src/
-├── assets/ # Logos, avatars, images
-├── components/ # All page components (Navbar, Hero, Footer, etc.)
-├── pages/ # Static pages (FAQ, Policy)
-├── utils/ # Animation configurations (e.g. motion.js)
-├── App.jsx # Main layout including all sections
-└── main.jsx # React entry point
-
 ## 📦 Tech Stack
 
 - **React.js** – Component-based JavaScript UI framework
